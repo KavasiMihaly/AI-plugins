@@ -5,7 +5,10 @@
     {
       "name": "dbt-pipeline-toolkit",
       "description": "End-to-end dbt pipeline automation for SQL Server. CSV to star schema with agents, skills, MCP server, and validation hooks.",
-      "source": "github:KavasiMihaly/DBT-Pipeline-Plugin"
+      "source": {
+        "type": "github",
+        "repo": "KavasiMihaly/DBT-Pipeline-Plugin"
+      }
     }
   ]
 }

@@ -1,9 +1,0 @@
-{
-  "name": "OneDayBI-Marketplace",
-  "version": "1.0.0",
-  "description": "OneDayBI plugin marketplace — AI-powered tools for data engineering, analytics, and Power BI workflows by Mihaly Kavasi.",
-  "author": {
-    "name": "Mihaly Kavasi",
-    "url": "https://github.com/KavasiMihaly"
-  }
-}

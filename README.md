@@ -55,7 +55,10 @@ If MCP tools don't appear, fully restart Claude Code.
 {
   "name": "your-plugin-name",
   "description": "What it does in one sentence.",
-  "source": "github:KavasiMihaly/Your-Plugin-Repo"
+  "source": {
+    "type": "github",
+    "repo": "KavasiMihaly/Your-Plugin-Repo"
+  }
 }
 ```
 
@@ -68,8 +71,8 @@ If MCP tools don't appear, fully restart Claude Code.
 ```
 AI-plugins/
 ├── .claude-plugin/
-│   ├── marketplace.json     # lists all plugins (external references)
-│   └── plugin.json          # marketplace metadata
+│   └── marketplace.json     # lists all plugins (external references)
+├── .gitignore
 └── README.md
 ```
 
