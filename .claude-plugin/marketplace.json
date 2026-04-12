@@ -1,0 +1,11 @@
+{
+  "name": "OneDayBI-Marketplace",
+  "description": "OneDayBI plugin marketplace — AI-powered tools for data engineering, analytics, and Power BI workflows.",
+  "plugins": [
+    {
+      "name": "dbt-pipeline-toolkit",
+      "description": "End-to-end dbt pipeline automation for SQL Server. CSV to star schema with agents, skills, MCP server, and validation hooks.",
+      "source": "github:KavasiMihaly/DBT-Pipeline-Plugin"
+    }
+  ]
+}
