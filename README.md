@@ -56,9 +56,11 @@ If MCP tools don't appear, fully restart Claude Code.
   "name": "your-plugin-name",
   "description": "What it does in one sentence.",
   "source": {
-    "type": "github",
-    "repo": "KavasiMihaly/Your-Plugin-Repo"
-  }
+    "source": "url",
+    "url": "https://github.com/KavasiMihaly/Your-Plugin-Repo.git"
+  },
+  "category": "development",
+  "homepage": "https://github.com/KavasiMihaly/Your-Plugin-Repo"
 }
 ```
 

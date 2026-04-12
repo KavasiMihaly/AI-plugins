@@ -1,14 +1,21 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "OneDayBI-Marketplace",
   "description": "OneDayBI plugin marketplace — AI-powered tools for data engineering, analytics, and Power BI workflows.",
+  "owner": {
+    "name": "Mihaly Kavasi",
+    "email": "kavasi.mihaly@onedaybi.com"
+  },
   "plugins": [
     {
       "name": "dbt-pipeline-toolkit",
       "description": "End-to-end dbt pipeline automation for SQL Server. CSV to star schema with agents, skills, MCP server, and validation hooks.",
       "source": {
-        "type": "github",
-        "repo": "KavasiMihaly/DBT-Pipeline-Plugin"
-      }
+        "source": "url",
+        "url": "https://github.com/KavasiMihaly/DBT-Pipeline-Plugin.git"
+      },
+      "category": "development",
+      "homepage": "https://github.com/KavasiMihaly/DBT-Pipeline-Plugin"
     }
   ]
 }
