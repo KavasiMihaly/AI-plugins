@@ -16,6 +16,16 @@
       },
       "category": "development",
       "homepage": "https://github.com/KavasiMihaly/DBT-Pipeline-Plugin"
+    },
+    {
+      "name": "fabric-dataflow-migration-toolkit",
+      "description": "Power BI Dataflow Gen1 → Microsoft Fabric medallion notebook migration. Export, analyze M code, generate bronze + silver PySpark notebooks, deploy and validate.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/KavasiMihaly/Dataflow-to-Notebook-Plugin.git"
+      },
+      "category": "development",
+      "homepage": "https://github.com/KavasiMihaly/Dataflow-to-Notebook-Plugin"
     }
   ]
 }
