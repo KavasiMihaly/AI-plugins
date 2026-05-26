@@ -26,6 +26,16 @@
       },
       "category": "development",
       "homepage": "https://github.com/KavasiMihaly/Dataflow-to-Notebook-Plugin"
+    },
+    {
+      "name": "claude-code-essentials",
+      "description": "Curated hooks and tooling for Claude Code: per-session agent action logs, an install-command guard, and a token-aware statusline.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/KavasiMihaly/Claude-Code-Essentials.git"
+      },
+      "category": "development",
+      "homepage": "https://github.com/KavasiMihaly/Claude-Code-Essentials"
     }
   ]
 }

@@ -10,6 +10,7 @@ A Claude Code plugin marketplace by [Mihaly Kavasi](https://github.com/KavasiMih
 |--------|-------------|------|
 | **dbt-pipeline-toolkit** | End-to-end dbt pipeline automation for SQL Server. CSV to star schema with agents, skills, MCP server, and validation hooks. | [DBT-Pipeline-Plugin](https://github.com/KavasiMihaly/DBT-Pipeline-Plugin) |
 | **fabric-dataflow-migration-toolkit** | Power BI Dataflow Gen1 → Microsoft Fabric medallion notebook migration. Export, analyze M code, generate bronze + silver PySpark notebooks, deploy and validate. | [Dataflow-to-Notebook-Plugin](https://github.com/KavasiMihaly/Dataflow-to-Notebook-Plugin) |
+| **claude-code-essentials** | Curated hooks and tooling for Claude Code: per-session agent action logs, install-command guard, and a token-aware statusline. | [Claude-Code-Essentials](https://github.com/KavasiMihaly/Claude-Code-Essentials) |
 
 More plugins coming soon.
 
