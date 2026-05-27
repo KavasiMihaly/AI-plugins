@@ -14,6 +14,10 @@ A Claude Code plugin marketplace by [Mihaly Kavasi](https://github.com/KavasiMih
 
 More plugins coming soon.
 
+## Companion Handbook
+
+Not a plugin, but lives in the same family: the [**Claude Code Handbook**](https://github.com/KavasiMihaly/Claude-Code-Handbook) — canonical guides and best practices for building agents, skills, hooks, and plugins. Read this if you're authoring your own plugin for this marketplace.
+
 ---
 
 ## Installation
